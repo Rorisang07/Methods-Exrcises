@@ -16,6 +16,6 @@ def average_of_three(num1, num2, num3):
 print(average_of_three(7, 16 , 3))
 
 def  goodbye(name):
-    return  'It was nice meeting you ' + name + ', goodbye'
+    return  'It was nice meeting you ' + name + ', goodbye.'
 
 print(goodbye('Rorisang'))
