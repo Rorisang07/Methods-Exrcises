@@ -1,5 +1,5 @@
 def is_palindrome(word):
-    if list(word) == list(reversed(word)):# list converts string itno a list so that i can be able to access each character
+    if list(word) == list(reversed(word)):
         print(True)
     else:
         print(False)
