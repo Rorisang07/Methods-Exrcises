@@ -1,4 +1,3 @@
-
 def doubler(numbers):
     arr = []
     for j in numbers:
