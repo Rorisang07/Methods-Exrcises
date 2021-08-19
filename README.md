@@ -19,3 +19,5 @@ This project is made up of exercises that use the Python programming language to
 ## Contributing
 Pull requests are always welcome. If you want to make significant changes, please open an issue first to discuss what you want to change.
 
+## Acknowledgments
+[Stackoverflow]https://stackoverflow.com/questions/35166633/how-do-i-multiply-each-element-in-a-list-by-a-number/35166717)
