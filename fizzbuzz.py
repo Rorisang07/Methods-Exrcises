@@ -1,12 +1,13 @@
 def fizz_buzz(max):
-    nums = []
+    number = []
     i = 0
     while i < max:
 
         if (i % 4 == 0 or i % 6 == 0) and not (i % 4 == 0 and i % 6 == 0):
-            nums.append(i)
+            number.append(i)
         i += 1
     
-    print(nums)
+    print(number)
 
-fizz_buzz(20)
+fizz_buzz(30)
+
